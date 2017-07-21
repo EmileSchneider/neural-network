@@ -1,3 +1,8 @@
+Abandon ship. I repeat: ABANDON SHIP.
+
+Yeah so, it is a bit more complicated than that and I got distracted...
+
+
 This is supposed to be a simple neural network.
 The NN should be able to classify a 4px (2x2) grey scale image into the following categories:
   - the image is solid
